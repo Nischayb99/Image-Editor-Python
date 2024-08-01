@@ -1,1 +1,2 @@
-# Image Editing Project Useing Python. 
+# Image Editing . 
+Autometically Image Editing Project Useing Python. 
