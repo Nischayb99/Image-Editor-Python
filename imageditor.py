@@ -3,8 +3,8 @@ from PIL import Image, ImageEnhance, ImageFilter
 import os
 
 # Correct input and output directories
-input_path = r'C:\Users\c3175\OneDrive\Python Project\Image Editor project\imagedit_input.py'
-output_path = r'C:\Users\c3175\OneDrive\Python Project\Image Editor project\imagedit_output.py'
+input_path = r'C:\Users\c3175\OneDrive\All Code\Python Project\Image Editor project\imagedit_input.py'
+output_path = r'C:\Users\c3175\OneDrive\All Code\Python Project\Image Editor project\imagedit_output.py'
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_path, exist_ok=True)
